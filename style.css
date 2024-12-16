@@ -1,0 +1,25 @@
+.container{
+    margin-bottom: 50px;
+}
+.navbar-collapse{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.banner p{
+    color: rgb(221, 219, 219);
+}
+.buy-now-button{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    border: none;
+    padding: 7px 20px;
+}
+.bgi{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+}
+
+.card-body{
+    text-align: center;
+}
