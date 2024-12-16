@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .navbar-collapse{
     display: flex;
@@ -15,11 +15,26 @@
     border: none;
     padding: 7px 20px;
 }
-.bgi{
+.bgi1{
     background-image: url(bg-1.png);
     background-repeat: no-repeat;
+}
+.bgi2{
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+    
+}
+.card-text{
+    color: rgb(120, 114, 114);
+
 }
 
 .card-body{
     text-align: center;
+}
+.card{
+    margin-top: 30px;
+    border: none;
+    box-shadow: 5px 5px 10px rgb(227, 228, 230);
+    border-radius: 10px;
 }
