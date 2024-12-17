@@ -38,3 +38,17 @@
     box-shadow: 5px 5px 10px rgb(227, 228, 230);
     border-radius: 10px;
 }
+.see-txt{
+    color: rgb(224, 165, 3);
+}
+.text-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.categories-txt{
+    text-align: center;
+    border-bottom: 7px solid;
+    border-image: linear-gradient(90deg, rgb(203, 167, 101), rgb(173, 115, 7));
+    border-image-slice: 1;
+}
