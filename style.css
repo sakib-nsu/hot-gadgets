@@ -46,9 +46,9 @@
     justify-content: space-between;
 }
 
-.categories-txt{
+.categories h3{
     text-align: center;
     border-bottom: 7px solid;
-    border-image: linear-gradient(90deg, rgb(203, 167, 101), rgb(173, 115, 7));
+    border-image: linear-gradient(90deg, rgb(166, 147, 111), rgb(29, 96, 22));
     border-image-slice: 1;
 }
